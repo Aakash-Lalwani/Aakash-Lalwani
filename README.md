@@ -232,6 +232,10 @@ AI-powered algorithm visualizer & analytics dashboard with execution tracing.
 
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakash-Lalwani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aakash's GitHub Stats"/>
 
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Lalwani&theme=tokyonight&hide_border=true" alt="Aakash's GitHub Streak"/>
+
+<br><br>
+
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aakash-Lalwani&layout=compact&theme=tokyonight&hide_border=true" alt="Aakash's Top Languages"/>
 
 </div>
